@@ -6,7 +6,6 @@ include_once('conn.php');
 $sql = "select * from car";
 $result = mysqli_query($con,$sql);
 
-// Testing git
 
 
 $tableData =  array();
