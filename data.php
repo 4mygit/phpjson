@@ -6,7 +6,7 @@ include_once('conn.php');
 $sql = "select * from car";
 $result = mysqli_query($con,$sql);
 
-
+// This change was done in json-branch1
 
 
 
