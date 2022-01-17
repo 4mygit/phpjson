@@ -7,6 +7,6 @@ $json = '{"status": "Success", "result": ["052.jpg", "053.jpg", "054.jpg", "055.
 
 sleep(rand(2,12));
 
-	echo $json;
+	echo $json; // This will print the data in JSON format
 
 ?>
