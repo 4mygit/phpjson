@@ -1,5 +1,6 @@
 <?php
 //This is a script to read data from maximo
+//Again update through VS code
 
 $curl = curl_init();
 
