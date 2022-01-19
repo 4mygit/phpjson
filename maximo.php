@@ -1,4 +1,5 @@
 <?php
+//This is a script to read data from maximo
 
 $curl = curl_init();
 
